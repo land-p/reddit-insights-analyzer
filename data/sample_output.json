@@ -1,0 +1,10 @@
+[
+    {
+        "query": "What is the easiest musical instrument to learn?",
+        "data": {
+            "format": "json",
+            "heading": "Output",
+            "response": "Discussion Summary:\nPost about What is the easiest musical instrument to learn? discussing various opinions.\nComment about What is the easiest musical instrument to learn? with user opinions."
+        }
+    }
+]
